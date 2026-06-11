@@ -28,6 +28,6 @@ Lunch,150
 Coffee,80
 Groceries,500
 
-## Author
+# Author
 Rahul Yadav
 GitHub: @rjrahulyadav369-beep
