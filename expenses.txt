@@ -1,3 +1,3 @@
 shop some fruits,200
-pyaj,10
+pyaj,,10
 123,21324
