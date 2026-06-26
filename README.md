@@ -3,7 +3,7 @@ A simple expense tracker that runs in your terminal, built with Python.
 
 ## What it does
 - Add an expense with a name and amount
-- View all your expenses with a total at the end
+- View all your expenses with a total at the end to end 
 - Saves everything to a `expenses.txt` file automatically
 
 ## How it looks
